@@ -19,3 +19,4 @@
 - [ ] Elm in Action, Richard Feldman, 2020
 - [ ] Practical Haskell - A Real World Guide to Programming - Second Edition, Alejandro Serrano Mena, 2019
 - [x] The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, Shoshana Zuboff, 2019
+- [ ] Twilight of Democracy: The Seductive Lure of Authoritarianism, Anne Applebaum, 2020
