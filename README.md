@@ -23,3 +23,4 @@
 - [ ] Pale Blue Dot, Carl Sagan, 1994
 - [ ] Czech Security Dilemma: Russia as a Friend or Enemy?, Jan Holzer, Miroslav Mares, 2020
 - [ ] Vietnamese Organized Crime in the Czech Republic, Miroslav Nozina, Filip Kraus, 2020
+- [ ] Mindf*ck: Cambridge Analytica and the Plot to Break America, Christopher Wylie, 2019
