@@ -24,4 +24,4 @@
 - [ ] Czech Security Dilemma: Russia as a Friend or Enemy?, Jan Holzer, Miroslav Mares, 2020
 - [ ] Vietnamese Organized Crime in the Czech Republic, Miroslav Nozina, Filip Kraus, 2020
 - [x] Mindf*ck: Cambridge Analytica and the Plot to Break America, Christopher Wylie, 2019
-- [x] Range: Why Generalists Triumph in a Specialized World, David Epstein, 2019
+- [ ] Range: Why Generalists Triumph in a Specialized World, David Epstein, 2019
